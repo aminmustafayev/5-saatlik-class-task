@@ -1,0 +1,32 @@
+.crud-text{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 35px;
+    margin-bottom: 85px;
+    text-align: center;
+    p{
+        margin-bottom: 0;
+        color: gray;
+    }
+    h1{
+        font-weight: 700;
+        font-size: 45px;
+    }
+}
+.crud-title{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 25px;
+    p{
+        color: gray;
+    }
+}
+.basket{
+    display: flex;
+    gap: 25px;
+    margin-bottom: 50px;
+}

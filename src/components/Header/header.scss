@@ -1,0 +1,24 @@
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.nav{
+    display: flex;  
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 25px;
+}
+.nav-ul{
+ul{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 25px;
+}
+}
+.nav-div{
+    h1{
+        font-weight: 700;
+    }
+}

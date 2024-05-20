@@ -1,0 +1,38 @@
+.lead{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+.team-text{
+    text-align: center;
+    margin-top: 80px;
+    margin-bottom: 60px;
+    p{
+        color: gray;
+    }
+    span{
+        font-weight: 700;
+        color: white;
+        background-color: black;
+        font-size: 50px;
+    }
+}
+.lead-title{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    color: gray;
+    margin-top: 15px;
+    p{
+        margin-bottom: 0;
+        font-size: 18px;
+    }
+}
+.icons-lead{
+    margin-top: 25px;
+    margin-bottom: 25px;
+    display: flex;
+    gap: 15px;
+    justify-content: center;
+    align-items: center;
+}
